@@ -2,7 +2,6 @@ This is the code of our parallelized RDOQ work.
 
 ## Citation 
 If you use this code for your research, please cite our paper [Parallelized RDOQ Algorithm and Fully Pipelined Hardware Architecture for AVS3 Video Coding](https://ieeexplore.ieee.org/document/10379642/):
-
 ```
 @ARTICLE{10379642,
   author={Huang, Xiaofeng and Tang, Ran and Pan, Rui and Yin, Haibing and Wang, Zhao and Wang, Shiqi and Ma, Siwei},
