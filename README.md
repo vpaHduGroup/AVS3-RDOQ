@@ -8,5 +8,4 @@ This is the code of our parallelized RDOQ work.
   volume={},
   number={},
   pages={1-1},
-  keywords={Hardware;Costs;Computer architecture;Quantization (signal);Video coding;Transforms;Estimation;RDOQ;AVS3;zig-zag scanline;parallelized algorithm;hardware architecture},
   doi={10.1109/TCSVT.2023.3349278}}
