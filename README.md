@@ -8,4 +8,5 @@ This is the code of our parallelized RDOQ work.
   volume={},
   number={},
   pages={1-1},
-  doi={10.1109/TCSVT.2023.3349278}}
+  doi={10.1109/TCSVT.2023.3349278}
+}
